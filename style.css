@@ -1,0 +1,322 @@
+ /*=========================INDEX PAGE===========================*/
+#home-logo-img{
+    width: 700;
+    height: 700;
+    Display:block;
+    margin: auto;
+    padding: 25px;10px;10px;10px;
+}
+#home-logo{
+    width: 700px;
+    height: 200px;
+    padding-left: 257px;
+}
+.home-menu-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid black;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 50%;
+    background-color: white;
+}
+.body-home{
+    background-image: url("images/index1.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+#Home-options{
+    padding-top: 200px;
+}
+/*=========================PIZZA CONTENT===========================*/
+.Pizza-content{
+    
+    padding-top: 180px;
+    align-content:center;
+}
+
+#pizza{
+    background-color: white;
+    width: 300px;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+/*=========================PIZZA PAGE===========================*/
+
+#pizza img{
+    width: 300;
+    height: 300;
+}
+#pizza h1{
+    margin: 60px;
+}
+/*=========================HEADER===========================*/
+.header{
+    background-color: #2196f3;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    
+    position: fixed;
+    overflow: hidden;
+    
+    text-align: center;
+}
+
+    .header img{
+    width: 150px;
+    padding-top: 7px;
+    padding-right: 25px;
+}
+
+.header i {
+    float: left;
+    padding: 17px 0px 0px 17px;
+    font-size: 30px;
+}
+
+
+/*=========================DRINK===========================*/
+#Drinking{
+    padding-top: 300px;
+    text-align: center;    
+}
+.drinksheader{
+     background-color: #2196f3;
+    width: 100%;
+    height: 100px;
+    top: 0;
+    
+    position: fixed;
+    overflow: hidden;
+    
+    text-align: center;
+}
+
+.drinksheader img{
+     width: 300px;
+    padding-top: 7px;
+    padding-bottom:5px; 
+    padding-right: 75px;
+    height: 70px;
+}
+
+.drinksheader i{
+ float: left;
+    padding: 17px 0px 0px 17px;
+    font-size: 30px;
+}
+
+/*=========================ORDER STATUS===========================*/
+.status{
+    padding-top: 10px;
+}
+
+.Food-size{
+    padding-top: 10px;
+     margin: 20px;
+}
+                                                                             /.
+
+/*=========================Burgers page==========================*/
+
+
+.burgers{
+    background-image: url("pictures/beefburger.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+/*=========================Pizza page==========================*/
+.piza{
+      background-image: url("images/pizza%20background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================Spaghetti page==========================*/
+.spagheto{
+background-image: url("images/spaghettibackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+/*=========================Cake page==========================*/
+.cakes{
+    background-image: url("images/cake%20background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================Tart page==========================*/
+.tart{
+     background-image: url("images/tartbackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================ice cream page==========================*/
+.Icecream{
+      background-image: url("images/icecreambackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================drink page==========================*/
+.coolae{
+     background-image: url("images/colabackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================milkshake page==========================*/
+.shake{
+     background-image: url("images/shakebackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================Fruit juice page==========================*/
+.Fruit{
+     background-image: url("images/juicebackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================Samoosa page==========================*/
+.samoosa{
+      background-image: url("images/samoosabackground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================mini pizza page==========================*/
+.minipizza{
+      background-image: url("images/minipizza%20abckground.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*=========================Skewers page==========================*/
+.skewers{
+      background-image: url("images/skewersbackground1.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu{
+    background-image: url("images/index2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+/*=======================Purchased page==========================*/
+#purchase{
+ background-color: white;
+  width: 300px;
+  border: 10px solid black;
+  padding: 50px;
+  margin: 20px;
+
+}
+.purchased{
+  background-image: url(images/purchased1.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bought{
+    position: fixed;
+    padding-top: 100px;
+  
+}
+/*=======================NAME OF MEAL==========================*/
+.Name-of-meal{
+    border: background-color: white;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 20px; 
+text-align: center;
+}
+
+
+
+
+
+/*================RESPONSIVE LAYOUT==========*/
+@media only screen and (min-width:600px){
+    #Home-options{
+        width: 80%;
+        margin: auto;
+    }
+    #Food-size{
+        width: 80%;
+        margin:auto;
+    }
+    #pizza{
+        padding: 0px,
+    }
+@media only screen and (min-width:1000px){
+    #Home-options{
+        width: 60%;
+        margin: auto;
+    }
+    #Food-size{
+        width: 60%;
+        margin:auto;
+    }
+    
+     #pizza{
+        padding: 0px,
+    }
+    
+@media only screen and (min-width:1500px){
+     #Home-options{
+        width: 40%;
+        margin: auto;
+    }
+    #Food-size{
+        width: 40%;
+        margin:auto;
+    }
+     #pizza{
+        padding: 0px,
+    }
+
+    @media only screen and (min-width:750px){
+        .body-home{
+            background-image: url(images/index1.jpg);
+        }
+        .menu{
+            background-image: url(images/index2.jpg);
+        }
+        
+    
